@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "polymeraug16",
+    "default": "polymeraug16"
+  }
+}
